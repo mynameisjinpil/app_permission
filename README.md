@@ -59,11 +59,11 @@
 
 __[Privacy Permission]__
 
-![개인정보이미지](./ios_privacy.png)
+![개인정보이미지](./ios_privacy.PNG)
 
 __[Access Permission]__
 
-![엑세스이미지](./ios_permission.png)
+![엑세스이미지](./ios_permission.PNG)
 
 추가로, iOS는 권한 요청에 따른 문구를 따로 설정해줘야합니다. 이 문구에 대해서는 Apple에서 정해준 가이드라인이 있기 때문에 다음 문서를 참고하셔서 정하면됩니다. [👉 Documents](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/requesting-permission "Apple design guide")
 
@@ -138,11 +138,11 @@ __[Photos]__
 
 __[Camera Denied]__
 
-![이미지5](./ios_camera_re.png)
+![이미지5](./ios_camera_re.PNG)
 
 __[Photos Denied]__
 
-![이미지5](./ios_photos_re.png)
+![이미지5](./ios_photos_re.PNG)
 
 #### 2) Android
 
